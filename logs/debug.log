@@ -1,0 +1,1468 @@
+2016-06-10 12:21:55 Notice: Notice (8): Undefined variable: user in [D:\wamp\www\cake3test\cake3test\src\Template\Users\login.ctp, line 3]
+Request URL: /cake3test/cake3test/users/login
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Users\login.ctp, line 3
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-10 12:21:55 Notice: Notice (8): Undefined variable: userTypes in [D:\wamp\www\cake3test\cake3test\src\Template\Users\login.ctp, line 7]
+Request URL: /cake3test/cake3test/users/login
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Users\login.ctp, line 7
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:15:24 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:16:13 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:16:37 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:25:30 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:27:12 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:27:47 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:28:20 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:29:07 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:30:04 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:30:48 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 09:48:58 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 10:00:01 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 10:16:46 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 38]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 38
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 10:17:12 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 38]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 38
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 11:39:56 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Referer URL: http://localhost/cake3test/cake3test/users/login
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 11:42:49 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Referer URL: http://localhost/cake3test/cake3test/users/login
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 11:48:20 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 11:54:15 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 11:58:27 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 11:59:01 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 11:59:29 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 11:59:43 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 12:00:01 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 12:00:06 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 12:00:30 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 12:00:56 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 12:01:02 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 12:01:06 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-16 12:01:39 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 35]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 35
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-17 03:56:20 Notice: Notice (8): A non well formed numeric value encountered in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 132]
+Request URL: /cake3test/cake3test/ReportMasters/submitReport
+Referer URL: http://localhost/cake3test/cake3test/ReportMasters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+date - [internal], line ??
+App\Controller\ReportMastersController::submitReport() - APP/Controller\ReportMastersController.php, line 132
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-17 04:08:02 Notice: Notice (8): Undefined variable: reportId in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 149]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 149
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-17 04:08:02 Notice: Notice (8): Undefined variable: reportId in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 149]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 149
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-17 06:02:40 Notice: Notice (8): Array to string conversion in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 18]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 18
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-17 06:33:56 Notice: Notice (8): Undefined variable: array in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 67]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 67
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-17 06:51:25 Notice: Notice (8): Undefined variable: patchesList in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 77]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 77
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-17 06:52:28 Notice: Notice (8): Undefined variable: patchesList in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 77]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 77
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:37:41 Notice: Notice (8): Undefined index: ReportEntryDoctors in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 163]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Referer URL: http://localhost/cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:37:41 Notice: Notice (8): Undefined index: ReportEntryChemists in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 168]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Referer URL: http://localhost/cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 168
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:37:48 Notice: Notice (8): Undefined variable: doctorReport in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 175]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:37:48 Notice: Notice (8): Undefined variable: chemistReport in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 176]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 176
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:37:50 Notice: Notice (8): Undefined variable: doctorReport in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 175]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:37:50 Notice: Notice (8): Undefined variable: chemistReport in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 176]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 176
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:37:53 Notice: Notice (8): Undefined variable: doctorReport in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 175]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 175
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:37:53 Notice: Notice (8): Undefined variable: chemistReport in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 176]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 176
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:38:15 Notice: Notice (8): Undefined index: ReportEntryDoctors in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 163]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Referer URL: http://localhost/cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 163
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:38:15 Notice: Notice (8): Undefined index: ReportEntryChemists in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 168]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Referer URL: http://localhost/cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 168
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:38:48 Notice: Notice (8): Undefined index: ReportEntryDoctors in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 166]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Referer URL: http://localhost/cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 166
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 08:38:48 Notice: Notice (8): Undefined index: ReportEntryChemists in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 171]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Referer URL: http://localhost/cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 171
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:12:41 Notice: Notice (8): Array to string conversion in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 83]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 83
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:12:41 Notice: Notice (8): Array to string conversion in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 83]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 83
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:12:41 Notice: Notice (8): Array to string conversion in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 83]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 83
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:12:41 Notice: Notice (8): Array to string conversion in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 83]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 83
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:14:15 Notice: Notice (8): Undefined offset: 0 in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 82]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 82
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:14:15 Notice: Notice (8): Undefined offset: 0 in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 82]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 82
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:14:15 Notice: Notice (8): Undefined offset: 0 in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 82]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 82
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:14:15 Notice: Notice (8): Undefined offset: 0 in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 82]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 82
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:29:39 Notice: Notice (8): Undefined offset: 0 in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 97]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 97
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:29:39 Notice: Notice (8): Undefined offset: 0 in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 97]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 97
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:29:39 Notice: Notice (8): Undefined offset: 0 in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 97]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 97
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 09:29:39 Notice: Notice (8): Undefined offset: 0 in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 97]
+Request URL: /cake3test/cake3test/report-masters/fill-report-data/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 97
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:04:31 Notice: Notice (8): Undefined variable: patchesList in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\preview_report.ctp, line 78]
+Request URL: /cake3test/cake3test/report-masters/previewReport/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\preview_report.ctp, line 78
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:04:31 Notice: Notice (8): Undefined variable: doctorsList in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\preview_report.ctp, line 79]
+Request URL: /cake3test/cake3test/report-masters/previewReport/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\preview_report.ctp, line 79
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:04:31 Notice: Notice (8): Undefined variable: productsList in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\preview_report.ctp, line 80]
+Request URL: /cake3test/cake3test/report-masters/previewReport/1
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\preview_report.ctp, line 80
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:17 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 193]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 193
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:17 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 194]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 194
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:17 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 195]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 195
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:17 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 44]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 44
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:17 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 73]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 73
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:17 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 91]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 91
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:17 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 94]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 94
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 177]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 177
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 195]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 195
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 198]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 198
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 193]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 193
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 194]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 194
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 195]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::fillReportData() - APP/Controller\ReportMastersController.php, line 195
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 44]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 44
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 73]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 73
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 91]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 91
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 94]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 94
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 177]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 177
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 195]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 195
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-20 10:30:18 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\fill_report_data.ctp, line 198]
+Request URL: /cake3test/cake3test/ReportMasters/fillReportData/MQ==
+Referer URL: http://localhost/cake3test/cake3test/report-masters/previewReport/MQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\fill_report_data.ctp, line 198
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 04:32:38 Notice: Notice (8): Undefined variable: reportsDetails in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 39]
+Request URL: /cake3test/cake3test/report-masters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 39
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 04:32:58 Notice: Notice (8): Undefined variable: mr_id in [D:\wamp\www\cake3test\cake3test\src\Controller\ReportMastersController.php, line 116]
+Request URL: /cake3test/cake3test/report-masters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+App\Controller\ReportMastersController::submitReport() - APP/Controller\ReportMastersController.php, line 116
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 04:32:58 Notice: Notice (8): Undefined variable: reportsDetails in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 39]
+Request URL: /cake3test/cake3test/report-masters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 39
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 04:33:17 Notice: Notice (8): Undefined variable: reportsDetails in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 39]
+Request URL: /cake3test/cake3test/report-masters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 39
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 04:33:37 Notice: Notice (8): Undefined variable: product in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 46]
+Request URL: /cake3test/cake3test/report-masters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 46
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 04:33:37 Notice: Notice (8): Trying to get property of non-object in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\submit_report.ctp, line 46]
+Request URL: /cake3test/cake3test/report-masters/submitReport
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\submit_report.ctp, line 46
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 05:21:01 Notice: Notice (8): Undefined variable: patchesList in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\preview_report.ctp, line 135]
+Request URL: /cake3test/cake3test/report-masters/preview-report/NQ%3D%3D
+Referer URL: http://localhost/cake3test/cake3test/report-masters/fill-report-data/NQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\preview_report.ctp, line 135
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 05:21:01 Notice: Notice (8): Undefined variable: chemistsList in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\preview_report.ctp, line 136]
+Request URL: /cake3test/cake3test/report-masters/preview-report/NQ%3D%3D
+Referer URL: http://localhost/cake3test/cake3test/report-masters/fill-report-data/NQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\preview_report.ctp, line 136
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 05:21:01 Notice: Notice (8): Undefined variable: productsList in [D:\wamp\www\cake3test\cake3test\src\Template\ReportMasters\preview_report.ctp, line 137]
+Request URL: /cake3test/cake3test/report-masters/preview-report/NQ%3D%3D
+Referer URL: http://localhost/cake3test/cake3test/report-masters/fill-report-data/NQ%3D%3D
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\ReportMasters\preview_report.ctp, line 137
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 06:13:02 Notice: Notice (8): Undefined variable: product in [D:\wamp\www\cake3test\cake3test\src\Template\Patchs\add.ctp, line 11]
+Request URL: /cake3test/cake3test/patchs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Patchs\add.ctp, line 11
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 06:13:02 Notice: Notice (8): Undefined variable: products in [D:\wamp\www\cake3test\cake3test\src\Template\Patchs\add.ctp, line 34]
+Request URL: /cake3test/cake3test/patchs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Patchs\add.ctp, line 34
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 06:14:59 Notice: Notice (8): Undefined variable: patchs in [D:\wamp\www\cake3test\cake3test\src\Template\Patchs\add.ctp, line 34]
+Request URL: /cake3test/cake3test/patchs
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+include - APP/Template\Patchs\add.ctp, line 34
+Cake\View\View::_evaluate() - CORE\src\View\View.php, line 992
+Cake\View\View::_render() - CORE\src\View\View.php, line 952
+Cake\View\View::render() - CORE\src\View\View.php, line 587
+Cake\Controller\Controller::render() - CORE\src\Controller\Controller.php, line 611
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 120
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 08:00:36 Notice: Notice (8): Undefined index: m/d/Y in [D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\Validation\Validation.php, line 421]
+Request URL: /cake3test/cake3test/Doctors/add
+Referer URL: http://localhost/cake3test/cake3test/Doctors/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+Cake\Validation\Validation::date() - CORE\src\Validation\Validation.php, line 421
+ReflectionMethod::invokeArgs() - [internal], line ??
+Cake\Validation\RulesProvider::__call() - CORE\src\Validation\RulesProvider.php, line 71
+Cake\Validation\RulesProvider::date() - [internal], line ??
+Cake\Validation\ValidationRule::process() - CORE\src\Validation\ValidationRule.php, line 138
+Cake\Validation\Validator::_processRules() - CORE\src\Validation\Validator.php, line 1505
+Cake\Validation\Validator::errors() - CORE\src\Validation\Validator.php, line 137
+Cake\ORM\Marshaller::_validate() - CORE\src\ORM\Marshaller.php, line 203
+Cake\ORM\Marshaller::merge() - CORE\src\ORM\Marshaller.php, line 488
+Cake\ORM\Table::patchEntity() - CORE\src\ORM\Table.php, line 2099
+App\Controller\DoctorsController::add() - APP/Controller\DoctorsController.php, line 50
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+
+2016-06-21 08:00:36 Notice: Notice (8): Undefined index: m/d/Y in [D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\Validation\Validation.php, line 421]
+Request URL: /cake3test/cake3test/Doctors/add
+Referer URL: http://localhost/cake3test/cake3test/Doctors/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE\src\Error\BaseErrorHandler.php, line 146
+Cake\Validation\Validation::date() - CORE\src\Validation\Validation.php, line 421
+ReflectionMethod::invokeArgs() - [internal], line ??
+Cake\Validation\RulesProvider::__call() - CORE\src\Validation\RulesProvider.php, line 71
+Cake\Validation\RulesProvider::date() - [internal], line ??
+Cake\Validation\ValidationRule::process() - CORE\src\Validation\ValidationRule.php, line 138
+Cake\Validation\Validator::_processRules() - CORE\src\Validation\Validator.php, line 1505
+Cake\Validation\Validator::errors() - CORE\src\Validation\Validator.php, line 137
+Cake\ORM\Marshaller::_validate() - CORE\src\ORM\Marshaller.php, line 203
+Cake\ORM\Marshaller::merge() - CORE\src\ORM\Marshaller.php, line 488
+Cake\ORM\Table::patchEntity() - CORE\src\ORM\Table.php, line 2099
+App\Controller\DoctorsController::add() - APP/Controller\DoctorsController.php, line 50
+Cake\Controller\Controller::invokeAction() - CORE\src\Controller\Controller.php, line 429
+Cake\Routing\Dispatcher::_invoke() - CORE\src\Routing\Dispatcher.php, line 114
+Cake\Routing\Dispatcher::dispatch() - CORE\src\Routing\Dispatcher.php, line 87
+[main] - ROOT\webroot\index.php, line 37
+
+
+

@@ -1,0 +1,22 @@
+2016-06-10 12:08:39 Error: [Cake\Database\Exception] SQLSTATE[42000]: Syntax error or access violation: 1059 Identifier name 'doctors,patchs,products,report_entry_chemists,report_entry_doctors,report_masters,user_types,users' is too long
+Stack Trace:
+#0 D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\Database\Schema\Collection.php(96): Cake\Database\Schema\Collection->_reflect('Column', 'doctors,patchs,...', Array, Object(Cake\Database\Schema\Table))
+#1 D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\Database\Schema\CachedCollection.php(64): Cake\Database\Schema\Collection->describe('doctors,patchs,...', Array)
+#2 D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\ORM\Table.php(430): Cake\Database\Schema\CachedCollection->describe('doctors,patchs,...')
+#3 D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\ORM\Table.php(506): Cake\ORM\Table->schema()
+#4 D:\wamp\www\cake3test\cake3test\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(206): Cake\ORM\Table->primaryKey()
+#5 D:\wamp\www\cake3test\cake3test\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(124): Bake\Shell\Task\ModelTask->getAssociations(Object(Cake\ORM\Table))
+#6 D:\wamp\www\cake3test\cake3test\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(109): Bake\Shell\Task\ModelTask->getTableContext(Object(Cake\ORM\Table), 'doctors,patchs,...', 'Doctors,patchs,...')
+#7 D:\wamp\www\cake3test\cake3test\vendor\cakephp\bake\src\Shell\Task\ModelTask.php(96): Bake\Shell\Task\ModelTask->bake('Doctors,patchs,...')
+#8 D:\wamp\www\cake3test\cake3test\vendor\cakephp\bake\src\Shell\BakeShell.php(250): Bake\Shell\Task\ModelTask->main('Doctors,patchs,...')
+#9 D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\Collection\CollectionTrait.php(51): Bake\Shell\BakeShell->Bake\Shell\{closure}('doctors,patchs,...', 0)
+#10 D:\wamp\www\cake3test\cake3test\vendor\cakephp\bake\src\Shell\BakeShell.php(253): Cake\Collection\Collection->each(Object(Closure))
+#11 [internal function]: Bake\Shell\BakeShell->all('doctors,patchs,...')
+#12 D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\Console\Shell.php(444): call_user_func_array(Array, Array)
+#13 D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(217): Cake\Console\Shell->runCommand(Array, true, Array)
+#14 D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(181): Cake\Console\ShellDispatcher->_dispatch(Array)
+#15 D:\wamp\www\cake3test\cake3test\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(127): Cake\Console\ShellDispatcher->dispatch(Array)
+#16 D:\wamp\www\cake3test\cake3test\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#17 {main}
+
+
